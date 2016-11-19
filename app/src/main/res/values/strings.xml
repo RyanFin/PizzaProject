@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PizzaProject</string>
+
+    <string name="action_share">Share</string>
+
+    <string name="title_top">Top Fragment</string>
+
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string-array name="pasta">
+        <item>Spaghetti</item>
+        <item>Lasagne</item>
+    </string-array>
+
+    <string-array name="stores">
+        <item>Cambridge</item>
+        <item>Sebastopol</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Home</item>
+        <item>Pizzas</item>
+        <item>Pastas</item>
+        <item>Stores</item>
+    </string-array>
+
+
+
+</resources>
